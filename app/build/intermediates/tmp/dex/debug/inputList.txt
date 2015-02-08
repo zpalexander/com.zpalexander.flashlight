@@ -1,0 +1,2 @@
+/Users/zpalexander/AndroidstudioProjects/flashlight/app/build/intermediates/classes/debug
+/Users/zpalexander/AndroidstudioProjects/flashlight/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-5c40db06905e2611f55245790124611ad34b8e96.jar
